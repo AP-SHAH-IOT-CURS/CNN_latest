@@ -40,7 +40,7 @@ Few parameters of ImageDataGenerator used are :
 
    rotation_range is a value in degrees (0–180), a range within which to randomly rotate pictures.
    width_shift and height_shift are ranges (as a fraction of total width or height) within which to randomly translate pictures vertically                    
-   or horizontally
+   or horizontally.
    shear_range is for randomly applying shearing transformations.
    zoom_range is for randomly zooming inside pictures.
    horizontal_flip is for randomly flipping half of the images horizontally. This is relevant when there are no assumptions of horizontal 
